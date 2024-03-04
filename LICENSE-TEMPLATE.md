@@ -1,6 +1,6 @@
 #All Rights Reserved
 
-Copyright (c) ${project.inceptionYear} ${owner}
+Copyright (c) 2024 MR0Gummy
 
 Created by Techcable
 
